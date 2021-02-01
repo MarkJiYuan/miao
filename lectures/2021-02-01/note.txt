@@ -1,0 +1,21 @@
+1. 程序运行步骤
+通过 cd / dir 命令找到 app.py 所在的位置
+pipenv shell - 进入虚拟环境
+flask run - 运行flask程序
+
+2. 模版
+
+3. 字典
+hashmap 哈希表
+d = {}
+键值
+根据键，查找值
+
+
+4. 列表
+l = []
+
+5. 常用python函数
+len - 查看列表或字典的长度
+type - 查看变量的类型
+
